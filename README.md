@@ -4,7 +4,8 @@
  
   - [Build a SIEM Homelab](https://github.com/ebrightben/SIEM-HomeLab/)
   - [Active Directory Security using MITRE ATT&CK and Splunk](https://github.com/ebrightben/Active-Directory-Security-and-Monitoring-with-MITRE-ATT-CK-and-Splunk/blob/main/README.md)
-  
+  - [Cloud Detection and Response Using AWS GuardDuty](https://github.com/ebrightben/Cloud-Detection-and-Response-Using-AWS-GuardDuty/README.md)
+    
 
 
 <h2> 🤳 Connect with me:</h2>
