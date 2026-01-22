@@ -6,8 +6,7 @@
   - [Active Directory Security using MITRE ATT&CK and Splunk](https://github.com/ebrightben/Active-Directory-Security-and-Monitoring-with-MITRE-ATT-CK-and-Splunk/blob/main/README.md)
   - [Cloud Detection and Response Using AWS GuardDuty](https://github.com/ebrightben/Cloud-Detection-and-Response-Using-AWS-GuardDuty/blob/main/README.md)
 
-    
-<h3>🖥️ FullStack Development Projects</h3>
+
 
 
 <h2> 🤳 Connect with me:</h2>
